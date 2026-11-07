@@ -1,5 +1,26 @@
 # AudioFX Emotion Pipeline — README
 
+## 📄 Paper
+
+**Exploring How Audio Effects Alter Emotion with Foundation Models**  
+Stelios Katsis, Vassilis Lyberatos, Spyridon Kantarelis, Edmund Dervakos, Giorgos Stamou  
+[arXiv:2509.15151](https://arxiv.org/abs/2509.15151) · [PDF](https://arxiv.org/pdf/2509.15151)
+
+🎉 **Accepted at ICASSP** (IEEE International Conference on Acoustics, Speech and Signal Processing) and **Greeks in AI**.
+
+This repository contains the code accompanying the paper.
+
+```bibtex
+@article{katsis2025audiofx,
+  title   = {Exploring How Audio Effects Alter Emotion with Foundation Models},
+  author  = {Katsis, Stelios and Lyberatos, Vassilis and Kantarelis, Spyridon and Dervakos, Edmund and Stamou, Giorgos},
+  journal = {arXiv preprint arXiv:2509.15151},
+  year    = {2025}
+}
+```
+
+---
+
 ## Overview
 
 This project investigates **how audio effects influence emotion recognition in music**.  
